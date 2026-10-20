@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Olá, eu sou Miguel Avila!
+# Miguel Avila
 
-[![Texto animado](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=680&lines=Ciberseguran%C3%A7a+%7C+Python+%7C+Redes;Linux+%7C+Infraestrutura+%7C+Automa%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo!)](https://git.io/typing-svg)
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Ciberseguran%C3%A7a+%7C+Redes+%7C+Infraestrutura;Python+%7C+Linux+%7C+Automa%C3%A7%C3%A3o;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-**Cibersegurança • Python • Redes e Infraestrutura**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguellocatelliavila/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguellocatelliavila/)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miglocatelliavila@gmail.com)
 [![Inglês C2](https://img.shields.io/badge/Ingl%C3%AAs-C2%20%7C%2087%2F100-00897B?style=for-the-badge)](https://cert.efset.org/pt/drbfYm)
 
@@ -14,15 +12,11 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim
 
-Sou de **Criciúma, Santa Catarina**, e tenho interesse em **segurança da informação, redes, infraestrutura de TI e desenvolvimento com Python**.
+Sou **técnico em formação em Segurança Cibernética**, com conhecimentos em **redes, infraestrutura de TI, Linux e programação em Python**. Tenho experiência prática em atividades de laboratório, análise de vulnerabilidades, configuração de serviços e desenvolvimento de soluções.
 
-Gosto de entender como os sistemas funcionam, desenvolver soluções e aprimorar meus conhecimentos com projetos e atividades práticas.
-
-🎯 **Objetivo atual:** conquistar uma oportunidade de estágio em Tecnologia da Informação, especialmente nas áreas de cibersegurança, redes e infraestrutura.
-
-### ⚙️ Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
 <div align="center">
 
@@ -37,38 +31,32 @@ Gosto de entender como os sistemas funcionam, desenvolver soluções e aprimorar
 
 </div>
 
-**Outros conhecimentos:** Cisco Packet Tracer · Zabbix · SQL · virtualização · hardware · análise de vulnerabilidades · testes de segurança em ambientes controlados.
+### Conhecimentos e atividades práticas
 
-### 🛡️ Projeto em destaque
+- **Cibersegurança:** análise de vulnerabilidades e testes de segurança em ambientes controlados.
+- **Redes e infraestrutura:** simulações com Cisco Packet Tracer, Linux, virtualização, Apache e Zabbix.
+- **Programação e dados:** Python, Shell Script, SQL e PostgreSQL; exercícios de lógica e automação.
+- **Desenvolvimento:** participação no **VeylGuard**, projeto integrador de software para validação de entradas de usuários.
 
-**VeylGuard — Projeto Integrador**
+### Cursos e certificações
 
-Desenvolvimento de software voltado à **validação de entradas de usuários**.
-
-> 🚧 A documentação e o código poderão ser adicionados quando o projeto for publicado.
-
-### 🎓 Cursos e certificações
-
-| Curso / Certificação | Instituição | Informações |
+| Curso / Certificação | Instituição | Carga horária / Resultado |
 |---|---|---|
 | Python Essentials 1 | Cisco Networking Academy | 30 horas · 2026 |
 | Introduction to Cybersecurity | Cisco Networking Academy | 6 horas · 2025 |
 | Cyber Security: From Beginner to Expert | Udemy / Logix Academy | 15,5 horas · 2026 |
 | Segurança da Informação para Todos | ENAP | 24 horas · 2025 |
 | Introdução à Lei Brasileira de Proteção de Dados Pessoais | ENAP | 10 horas · 2025 |
-| [Certificado de Inglês EF SET](https://cert.efset.org/pt/drbfYm) | EF SET | **C2 · 87/100** |
+| [EF SET English Certificate](https://cert.efset.org/pt/drbfYm) | EF SET | C2 · 87/100 |
 
-### 🌎 Idiomas
+### Idiomas
 
-🇧🇷 **Português:** nativo  
-🇬🇧 **Inglês:** C2 (QECR) — [certificação EF SET: 87/100](https://cert.efset.org/pt/drbfYm)
+**Português:** nativo · **Inglês:** C2 (QECR) — [EF SET 87/100](https://cert.efset.org/pt/drbfYm)
 
 ---
 
 <div align="center">
 
-### ✨ Aprender, desenvolver e evoluir.
-
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=miguellavila&style=flat-square&color=00D9FF)
+![Visualizações](https://komarev.com/ghpvc/?username=miguellavila&style=flat-square&color=00D9FF)
 
 </div>
