@@ -37,7 +37,7 @@ Sou **técnico em formação em Segurança Cibernética**, com conhecimentos em 
 
 - **Cibersegurança:** análise de vulnerabilidades e testes de segurança em ambientes controlados.
 - **Redes e infraestrutura:** simulações com Cisco Packet Tracer, Linux, virtualização, Apache e Zabbix.
-- **Programação e dados:** Python, Shell Script, SQL e PostgreSQL; exercícios de lógica e automação.
+- **Programação e dados:** Python, Shell Script, SQL e PostgreSQL.
 - **Desenvolvimento:** participação no **VeylGuard**, projeto integrador de software para validação de entradas de usuários.
 
 ### Idiomas
