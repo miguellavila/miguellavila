@@ -33,7 +33,7 @@ Sou **técnico em formação em Segurança Cibernética**, com conhecimentos em 
 
 </div>
 
-### Conhecimentos e atividades práticas
+### Conhecimentos
 
 - **Cibersegurança:** análise de vulnerabilidades e testes de segurança em ambientes controlados.
 - **Redes e infraestrutura:** simulações com Cisco Packet Tracer, Linux, virtualização, Apache e Zabbix.
