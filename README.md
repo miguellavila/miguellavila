@@ -60,6 +60,6 @@ Sou **técnico em formação em Segurança Cibernética**, com conhecimentos em 
 
 <div align="center">
 
-![Visualizações](https://komarev.com/ghpvc/?username=miguellavila&style=flat-square&color=00D9FF)
+[![Visualizações](https://hits.sh/github.com/miguellavila.svg?label=Visualiza%C3%A7%C3%B5es&color=00D9FF&style=flat-square)](https://hits.sh/github.com/miguellavila/)
 
 </div>
