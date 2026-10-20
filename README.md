@@ -1,6 +1,6 @@
 <div align="center">
 
-# Miguel Avila
+# Miguel Locatelli Avila
 
 [![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Ciberseguran%C3%A7a+%7C+Redes+%7C+Infraestrutura;Python+%7C+Linux+%7C+Pentest;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
