@@ -2,7 +2,7 @@
 
 # Miguel Avila
 
-[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Ciberseguran%C3%A7a+%7C+Redes+%7C+Infraestrutura;Python+%7C+Linux+%7C+Automa%C3%A7%C3%A3o;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Ciberseguran%C3%A7a+%7C+Redes+%7C+Infraestrutura;Python+%7C+Linux+%7C+Pentest;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguellocatelliavila/)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miglocatelliavila@gmail.com)
@@ -22,12 +22,15 @@ Sou **técnico em formação em Segurança Cibernética**, com conhecimentos em 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1766A0?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F75CB?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
