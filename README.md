@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguellocatelliavila/)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miglocatelliavila@gmail.com)
-[![Inglês C2](https://img.shields.io/badge/Ingl%C3%AAs-C2%20%7C%2087%2F100-00897B?style=for-the-badge)](https://cert.efset.org/pt/drbfYm)
 
 </div>
 
