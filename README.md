@@ -41,17 +41,6 @@ Sou **técnico em formação em Segurança Cibernética**, com conhecimentos em 
 - **Programação e dados:** Python, Shell Script, SQL e PostgreSQL; exercícios de lógica e automação.
 - **Desenvolvimento:** participação no **VeylGuard**, projeto integrador de software para validação de entradas de usuários.
 
-### Cursos e certificações
-
-| Curso / Certificação | Instituição | Carga horária / Resultado |
-|---|---|---|
-| Python Essentials 1 | Cisco Networking Academy | 30 horas · 2026 |
-| Introduction to Cybersecurity | Cisco Networking Academy | 6 horas · 2025 |
-| Cyber Security: From Beginner to Expert | Udemy / Logix Academy | 15,5 horas · 2026 |
-| Segurança da Informação para Todos | ENAP | 24 horas · 2025 |
-| Introdução à Lei Brasileira de Proteção de Dados Pessoais | ENAP | 10 horas · 2025 |
-| [EF SET English Certificate](https://cert.efset.org/pt/drbfYm) | EF SET | C2 · 87/100 |
-
 ### Idiomas
 
 **Português:** nativo · **Inglês:** C2 (QECR) — [EF SET 87/100](https://cert.efset.org/pt/drbfYm)
