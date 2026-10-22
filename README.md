@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-Gosto de entender como as coisas funcionam — e descobrir como torná-las mais seguras.
+Gosto de entender como as coisas funcionam e descobrir como torná-las mais seguras.
 
 ### Tecnologias e ferramentas
 
