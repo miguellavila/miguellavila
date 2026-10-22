@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="48" viewBox="0 0 520 48" role="img" aria-label="Cybersecurity, systems and code">
+<rect width="520" height="48" rx="8" fill="#0d1117"/>
+<circle cx="24" cy="24" r="5" fill="#39d0d8">
+  <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+<text x="42" y="29" font-family="monospace" font-size="16" fill="#c9d1d9">security</text>
+<text x="157" y="29" font-family="monospace" font-size="16" fill="#58636f">/</text>
+<text x="180" y="29" font-family="monospace" font-size="16" fill="#c9d1d9">systems</text>
+<text x="283" y="29" font-family="monospace" font-size="16" fill="#58636f">/</text>
+<text x="306" y="29" font-family="monospace" font-size="16" fill="#c9d1d9">code</text>
+<rect x="363" y="16" width="8" height="17" rx="1" fill="#39d0d8">
+  <animate attributeName="opacity" values="1;0;1" dur="1.3s" repeatCount="indefinite"/>
+</rect>
+</svg>
