@@ -1,73 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:0B1220,50:007ACC,100:00D9FF&section=header" alt="Onda decorativa azul" />
-
 # Miguel Locatelli Avila
 
-[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Ciberseguran%C3%A7a+%7C+Redes+%7C+Infraestrutura;Python+%7C+Linux+%7C+Pentest;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+**Cibersegurança · Redes · Desenvolvimento**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguellocatelliavila/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miglocatelliavila@gmail.com)
-
-</div>
-
----
-
-### Sobre mim
+<img src="./assets/status.svg" width="520" alt="Security / systems / code — indicador animado" />
 
 Gosto de entender como as coisas funcionam e descobrir como torná-las mais seguras.
 
-<div align="center">
-
-![Terminal animado](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+miguellavila;%24+focus+%E2%86%92+security+%2B+development;%24+status+%E2%86%92+always+learning)
+[LinkedIn](https://www.linkedin.com/in/miguellocatelliavila/) · [E-mail](mailto:miglocatelliavila@gmail.com)
 
 </div>
-
-### Tecnologias e ferramentas
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-1766A0?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F75CB?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-</div>
-
-### Habilidades
-
-- **Cibersegurança:** análise de vulnerabilidades e testes de segurança em ambientes controlados.
-- **Redes e infraestrutura:** simulações com Cisco Packet Tracer, Linux, virtualização, Apache e Zabbix.
-- **Programação e dados:** Python, Shell Script, SQL e PostgreSQL.
-- **Desenvolvimento:** participação no **VeylGuard**, projeto integrador de software para validação de entradas de usuários.
-
-### Projetos em destaque
-
-<div align="center">
-
-| Projeto | Área |
-|:--|:--|
-| [**LogSentinel**](https://github.com/miguellavila/logsentinel-python) | Python · Análise de logs |
-| [**HeaderGuard**](https://github.com/miguellavila/headerguard-js) | JavaScript · Segurança HTTP |
-| [**IncidentDesk**](https://github.com/miguellavila/incidentdesk-python-sql) | Python · SQL · Resposta a incidentes |
-| [**Google Gruyere Pentest**](https://github.com/miguellavila/pentest-google-gruyere) | Pentest · Segurança web |
-
-</div>
-
-### Idiomas
-
-**Português:** nativo · **Inglês:** C2 (QECR) — [EF SET 87/100](https://cert.efset.org/pt/drbfYm)
 
 ---
 
-<div align="center">
+### Tecnologias
 
-[![Visualizações](https://hits.sh/github.com/miguellavila.svg?label=Visualiza%C3%A7%C3%B5es&color=00D9FF&style=flat-square)](https://hits.sh/github.com/miguellavila/)
+Python · Kali Linux · Nmap · Wireshark · Burp Suite · PostgreSQL
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B1220,50:007ACC,100:00D9FF&section=footer" alt="Onda decorativa de rodapé" />
+### Áreas de interesse
 
-</div>
+Segurança de aplicações, análise de vulnerabilidades, redes e desenvolvimento de ferramentas.
+
+### Idiomas
+
+Português (nativo) · Inglês C2 ([EF SET 87/100](https://cert.efset.org/pt/drbfYm))
