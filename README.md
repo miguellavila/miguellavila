@@ -45,13 +45,16 @@ Gosto de entender como as coisas funcionam e descobrir como torná-las mais segu
 - **Programação e dados:** Python, Shell Script, SQL e PostgreSQL.
 - **Desenvolvimento:** participação no **VeylGuard**, projeto integrador de software para validação de entradas de usuários.
 
-### Atividade no GitHub
+### Projetos em destaque
 
 <div align="center">
 
-[![Resumo de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguellavila&theme=github_dark)](https://github.com/miguellavila?tab=overview)
-
-[Ver gráfico oficial de contribuições no GitHub](https://github.com/miguellavila?tab=overview)
+| Projeto | Área |
+|:--|:--|
+| [**LogSentinel**](https://github.com/miguellavila/logsentinel-python) | Python · Análise de logs |
+| [**HeaderGuard**](https://github.com/miguellavila/headerguard-js) | JavaScript · Segurança HTTP |
+| [**IncidentDesk**](https://github.com/miguellavila/incidentdesk-python-sql) | Python · SQL · Resposta a incidentes |
+| [**Google Gruyere Pentest**](https://github.com/miguellavila/pentest-google-gruyere) | Pentest · Segurança web |
 
 </div>
 
