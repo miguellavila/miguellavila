@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:0B1220,50:007ACC,100:00D9FF&section=header" alt="Onda decorativa azul" />
+
 # Miguel Locatelli Avila
 
 [![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Ciberseguran%C3%A7a+%7C+Redes+%7C+Infraestrutura;Python+%7C+Linux+%7C+Pentest;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
@@ -14,6 +16,12 @@
 ### Sobre mim
 
 Gosto de entender como as coisas funcionam e descobrir como torná-las mais seguras.
+
+<div align="center">
+
+![Terminal animado](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+miguellavila;%24+focus+%E2%86%92+security+%2B+development;%24+status+%E2%86%92+always+learning)
+
+</div>
 
 ### Tecnologias e ferramentas
 
@@ -37,6 +45,14 @@ Gosto de entender como as coisas funcionam e descobrir como torná-las mais segu
 - **Programação e dados:** Python, Shell Script, SQL e PostgreSQL.
 - **Desenvolvimento:** participação no **VeylGuard**, projeto integrador de software para validação de entradas de usuários.
 
+### Atividade no GitHub
+
+<div align="center">
+
+[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=miguellavila&bg_color=0d1117&color=00d9ff&line=00b4d8&point=ffffff&area=true&hide_border=true)](https://github.com/miguellavila)
+
+</div>
+
 ### Idiomas
 
 **Português:** nativo · **Inglês:** C2 (QECR) — [EF SET 87/100](https://cert.efset.org/pt/drbfYm)
@@ -46,5 +62,7 @@ Gosto de entender como as coisas funcionam e descobrir como torná-las mais segu
 <div align="center">
 
 [![Visualizações](https://hits.sh/github.com/miguellavila.svg?label=Visualiza%C3%A7%C3%B5es&color=00D9FF&style=flat-square)](https://hits.sh/github.com/miguellavila/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B1220,50:007ACC,100:00D9FF&section=footer" alt="Onda decorativa de rodapé" />
 
 </div>
