@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-Sou **técnico em formação em Segurança Cibernética**, com conhecimentos em **redes, infraestrutura de TI, Linux e programação em Python**. Tenho experiência prática em atividades de laboratório, análise de vulnerabilidades, configuração de serviços e desenvolvimento de soluções.
+Gosto de entender como as coisas funcionam — e descobrir como torná-las mais seguras.
 
 ### Tecnologias e ferramentas
 
