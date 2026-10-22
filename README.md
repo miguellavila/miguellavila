@@ -8,7 +8,7 @@
 
 Gosto de entender como as coisas funcionam e descobrir como torná-las mais seguras.
 
-[LinkedIn](https://www.linkedin.com/in/miguellocatelliavila/) · [E-mail](mailto:miglocatelliavila@gmail.com)
+<a href="https://www.linkedin.com/in/miguellocatelliavila/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:miglocatelliavila@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/gmail.svg" width="28" height="28" alt="E-mail" /></a>
 
 </div>
 
