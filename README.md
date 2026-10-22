@@ -22,7 +22,6 @@ Gosto de entender como as coisas funcionam e descobrir como torná-las mais segu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="32" height="32" />
 </p>
 
-</div>
 
 ---
 
@@ -37,3 +36,5 @@ Segurança de aplicações, análise de vulnerabilidades, redes e desenvolviment
 ### Idiomas
 
 Português (nativo) · Inglês C2 ([EF SET 87/100](https://cert.efset.org/pt/drbfYm))
+
+</div>
