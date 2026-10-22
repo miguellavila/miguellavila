@@ -4,7 +4,7 @@
 
 **Cibersegurança · Redes · Desenvolvimento**
 
-<img src="./assets/status.svg" width="520" alt="Security / systems / code — indicador animado" />
+<img src="./assets/status.svg" width="420" alt="Security / systems / code — indicador animado" />
 
 Gosto de entender como as coisas funcionam e descobrir como torná-las mais seguras.
 
