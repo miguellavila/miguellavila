@@ -49,7 +49,9 @@ Gosto de entender como as coisas funcionam e descobrir como torná-las mais segu
 
 <div align="center">
 
-[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=miguellavila&bg_color=0d1117&color=00d9ff&line=00b4d8&point=ffffff&area=true&hide_border=true)](https://github.com/miguellavila)
+[![Resumo de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguellavila&theme=github_dark)](https://github.com/miguellavila?tab=overview)
+
+[Ver gráfico oficial de contribuições no GitHub](https://github.com/miguellavila?tab=overview)
 
 </div>
 
