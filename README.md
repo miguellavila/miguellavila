@@ -25,6 +25,12 @@ Gosto de entender como as coisas funcionam e descobrir como torná-las mais segu
 
 ---
 
+### Visualizações do perfil
+
+<img src="https://komarev.com/ghpvc/?username=miguellavila&label=Visualiza%C3%A7%C3%B5es%20reais&color=58a6ff&style=flat" alt="Contador de visualizações do perfil" />
+
+<sub>Referência anterior: 150 visualizações (valor histórico informado, não verificado pelo contador).</sub>
+
 ### Tecnologias
 
 Python · Kali Linux · Nmap · Wireshark · Burp Suite · PostgreSQL
