@@ -37,4 +37,11 @@ Segurança de aplicações, análise de vulnerabilidades, redes e desenvolviment
 
 Português (nativo) · Inglês C2 ([EF SET 87/100](https://cert.efset.org/pt/drbfYm))
 
+
+---
+
+### Visualizações do perfil
+
+<img src="https://komarev.com/ghpvc/?username=miguellavila-perfil-novo-20261023&label=Visualiza%C3%A7%C3%B5es&color=58a6ff&style=flat" alt="Contador de visualizações do perfil" />
+
 </div>
