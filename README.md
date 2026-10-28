@@ -6,7 +6,7 @@
 
 <img src="./assets/status.svg" width="420" alt="Security / systems / code — indicador animado" />
 
-Gosto de entender como as coisas funcionam e descobrir como torná-las mais seguras.
+Gosto de entender como as coisas funcionam.
 
 <a href="https://www.linkedin.com/in/miguellocatelliavila/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:miglocatelliavila@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="28" height="28" alt="E-mail" /></a>
 
