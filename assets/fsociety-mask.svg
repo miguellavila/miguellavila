@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Retrato vetorial inspirado na figura mascarada do fsociety: cartola e bigode branco">
+<defs><radialGradient id="bg"><stop stop-color="#4e1423"/><stop offset=".56" stop-color="#170b10"/><stop offset="1" stop-color="#030305"/></radialGradient><linearGradient id="m" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#f5e2d5"/><stop offset="1" stop-color="#af887e"/></linearGradient></defs>
+<rect width="600" height="600" fill="url(#bg)"/>
+<g opacity=".19" stroke="#db3049" stroke-width="2"><path d="M0 80H600M0 108H460M0 415H600M0 439H380M0 525H600"/><path d="M96 0V600M536 0V600" stroke-dasharray="5 11"/></g>
+<path d="M80 600Q105 460 240 447L360 447Q492 458 522 600Z" fill="#0b090d" stroke="#50343e" stroke-width="4"/>
+<path d="M229 449L305 600 155 600 141 511M369 446L300 600 440 600 459 506" fill="#231a20" stroke="#65505a" stroke-width="3"/>
+<path d="M253 439L300 471 347 439 325 600 280 600Z" fill="#ddd3d1"/>
+<path d="M295 480L308 493 321 480 318 564 309 592 301 564Z" fill="#b91633"/>
+<path d="M174 255Q175 189 235 177L378 177Q425 197 428 259L421 349Q407 420 350 449L253 449Q195 418 181 353Z" fill="url(#m)" stroke="#74575b" stroke-width="4"/>
+<path d="M198 288Q231 243 279 283Q276 302 259 301Q232 274 201 309Z" fill="#101015"/>
+<path d="M406 287Q373 244 327 281Q331 304 348 301Q374 276 404 310Z" fill="#101015"/>
+<path d="M204 337Q241 309 272 332Q239 356 204 337ZM333 332Q365 308 402 337Q366 354 333 332Z" fill="#251d21"/>
+<path d="M300 305Q285 354 293 364Q304 375 315 364" fill="none" stroke="#a07c73" stroke-width="7"/>
+<path d="M299 375Q258 341 219 367Q196 381 197 412Q208 396 219 395Q239 423 264 415Q284 404 301 396Q327 410 346 415Q379 417 388 393Q403 395 413 413Q409 376 388 365Q348 340 308 377Z" fill="#fcfaf6" stroke="#d4d1ce" stroke-width="3"/>
+<path d="M265 429Q302 439 344 429" fill="none" stroke="#493138" stroke-width="4"/>
+<path d="M197 85Q298 62 401 85L382 246Q304 266 219 245Z" fill="#111014" stroke="#51454b" stroke-width="4"/>
+<ellipse cx="299" cy="86" rx="105" ry="25" fill="#201b20" stroke="#6a5961" stroke-width="3"/>
+<path d="M206 223Q300 250 395 222L391 245Q300 270 212 247Z" fill="#9d1932"/>
+<ellipse cx="300" cy="248" rx="156" ry="25" fill="#0b090d" stroke="#7d6870" stroke-width="4"/>
+<path d="M147 246Q299 287 457 244" stroke="#cb9ca8" fill="none" stroke-width="3"/>
+<path d="M18 22H85M18 22V87M582 513V580H513" fill="none" stroke="#e62b49" stroke-width="5"/>
+<text x="30" y="568" fill="#d54a5a" font-family="'Courier New',monospace" font-size="20" letter-spacing="4">FSOCIETY // 5/9</text>
+</svg>
