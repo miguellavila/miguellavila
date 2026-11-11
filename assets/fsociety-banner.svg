@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="385" viewBox="0 0 1200 385" role="img" aria-labelledby="t d">
+<title id="t">Hello, friend — Miguel Ávila, fsociety-inspired GitHub banner</title>
+<desc id="d">Arte original inspirada na identidade visual de fsociety de Mr. Robot, com figura de cartola, máscara de bigode branco, estática VHS e terminal vermelho e preto.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090c"/><stop offset=".53" stop-color="#0f0a10"/><stop offset="1" stop-color="#030406"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#a00820" stop-opacity=".56"/><stop offset=".48" stop-color="#670b1a" stop-opacity=".21"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<linearGradient id="face" x1="0" y1="0" x2=".6" y2="1"><stop stop-color="#f8e6d8"/><stop offset=".58" stop-color="#ddc1b1"/><stop offset="1" stop-color="#a47a71"/></linearGradient>
+<linearGradient id="hat" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#111015"/><stop offset=".45" stop-color="#29252a"/><stop offset="1" stop-color="#050507"/></linearGradient>
+<pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect y="3" width="4" height=".7" fill="#fff" opacity=".05"/></pattern>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3b1821" stroke-width=".7" opacity=".37"/></pattern>
+<clipPath id="frame"><rect x="1" y="1" width="1198" height="383" rx="9"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="385" fill="url(#bg)"/>
+<rect width="1200" height="385" fill="url(#grid)"/>
+<circle cx="1000" cy="184" r="288" fill="url(#halo)"/>
+<g opacity=".3" fill="#e5273b"><rect x="0" y="82" width="640" height="2"/><rect x="370" y="98" width="165" height="2"/><rect x="108" y="236" width="568" height="1"/><rect x="44" y="251" width="212" height="3"/><rect x="584" y="155" width="250" height="1"/><rect x="46" y="347" width="720" height="2"/></g>
+<g opacity=".21" fill="#eee"><rect x="690" y="48" width="113" height="2"/><rect x="698" y="53" width="71" height="1"/><rect x="560" y="296" width="208" height="2"/><rect x="725" y="311" width="145" height="2"/><rect x="49" y="319" width="340" height="1"/></g>
+<path d="M785 0V385" stroke="#7c1c2b" stroke-width="1" stroke-dasharray="3 7" opacity=".5"/>
+<g font-family="'Courier New',monospace" font-size="14" letter-spacing="1.4">
+<text x="44" y="36" fill="#c7bdbe" opacity=".8">miguellavila@terminal:~$  ./identity --init</text>
+<text x="44" y="67" fill="#df344a">[ SYSTEM ONLINE ]</text>
+<text x="44" y="95" fill="#8c747b" font-size="12">SESSION: fsociety / 05.09  |  ACCESS: LEARNING</text>
+</g>
+<g font-family="Arial Black,Impact,'Arial',sans-serif" font-weight="900" letter-spacing="-4">
+<text x="41" y="197" font-size="78" fill="#ba162d" opacity=".55">HELLO, FRIEND.</text>
+<text x="46" y="192" font-size="78" fill="#f4f0ee">HELLO, FRIEND.</text>
+</g>
+<rect x="48" y="209" width="665" height="3" fill="#b51d32"/>
+<g font-family="'Courier New',monospace">
+<text x="49" y="247" font-size="22" font-weight="bold" letter-spacing="4" fill="#f3eaeb">MIGUEL ÁVILA</text>
+<text x="50" y="276" font-size="13" letter-spacing="2.1" fill="#e54f5f">CYBERSECURITY  //  SOFTWARE  //  PENTEST</text>
+<text x="49" y="321" font-size="15" fill="#beb0b3">&gt; question systems. understand code. build better.</text>
+</g>
+<rect x="48" y="340" width="665" height="1" fill="#51434b"/>
+<g font-family="'Courier New',monospace" font-size="10" fill="#887a7e" letter-spacing="1.2"><text x="49" y="362">/usr/bin/whoami</text><text x="475" y="362">NOT A MANIFESTO. JUST A MINDSET.</text></g>
+<!-- Monochrome silhouette of the fsociety masked figure: top hat, pale mask, white curled moustache. -->
+<g transform="translate(800 4)">
+<ellipse cx="212" cy="356" rx="230" ry="25" fill="#000" opacity=".8"/>
+<!-- torso and lapels -->
+<path d="M55 382 Q66 306 118 286 L162 271 Q205 298 245 276 L292 289 Q348 313 367 382Z" fill="#090a0d" stroke="#56464b" stroke-width="2"/>
+<path d="M135 283L204 382 165 382 99 308Z" fill="#161317"/>
+<path d="M279 289L211 382 252 382 319 307Z" fill="#1b161b"/>
+<path d="M174 284L210 300 245 284 234 381 189 381Z" fill="#d5ced0"/>
+<path d="M200 300L211 313 222 300 218 366 207 380 202 365Z" fill="#9e0f24"/>
+<path d="M130 311L177 350 157 357 115 320M289 315L247 350 260 360 309 327" stroke="#3f363d" stroke-width="2" fill="none"/>
+<!-- head/neck -->
+<path d="M186 253H231L232 306 210 325 186 304Z" fill="#b99a8d"/>
+<path d="M122 143 Q125 116 166 106L250 106Q295 118 299 154L289 232Q274 274 242 292L178 292Q143 274 129 230Z" fill="#060607" stroke="#2b2429" stroke-width="5"/>
+<path d="M140 155 Q137 128 172 122L249 122Q277 132 281 155L274 224Q270 261 239 276 Q209 290 181 275Q150 257 144 221Z" fill="url(#face)"/>
+<!-- mask side contour -->
+<path d="M145 160Q132 204 154 247M279 160Q289 206 268 250" fill="none" stroke="#a4827a" stroke-width="4" opacity=".7"/>
+<path d="M190 139Q207 131 231 140" stroke="#fff" opacity=".26" stroke-width="4" fill="none"/>
+<!-- eyebrow arches: key fsociety marker -->
+<path d="M154 189 Q178 158 199 182 Q200 195 187 193 Q175 183 158 198Z" fill="#110f11"/>
+<path d="M269 189 Q248 158 225 182 Q224 195 238 193 Q250 183 266 198Z" fill="#110f11"/>
+<!-- eyes and shadows -->
+<path d="M159 211 Q176 200 194 211 Q177 222 159 211Z" fill="#211b1e"/>
+<path d="M229 211Q248 201 266 210 Q248 222 229 211Z" fill="#211b1e"/>
+<path d="M169 212Q180 210 188 213M238 213Q250 210 260 212" stroke="#e4b9b0" stroke-width="3" fill="none"/>
+<path d="M208 201Q199 230 207 240Q214 244 222 237" stroke="#ab817a" stroke-width="3" fill="none"/>
+<!-- unmistakable wide white upturned moustache -->
+<path d="M207 243 Q182 226 162 236 Q148 247 150 264 Q156 255 162 253 Q171 268 189 266 Q200 261 211 257 Q222 262 235 266 Q253 266 264 253 Q271 254 277 263 Q274 243 259 235 Q238 225 214 243Z" fill="#faf7f1" stroke="#d8d5d0" stroke-width="2.2"/>
+<path d="M170 250Q184 257 201 249M223 249Q243 257 255 250" stroke="#c4bec0" stroke-width="2" fill="none" opacity=".6"/>
+<path d="M192 274 Q211 281 232 274" stroke="#322124" stroke-width="3" fill="none"/>
+<!-- top hat -->
+<path d="M140 40Q212 25 282 42L266 140 Q212 155 156 140Z" fill="url(#hat)" stroke="#514448" stroke-width="2"/>
+<ellipse cx="211" cy="40" rx="72" ry="18" fill="#19171a" stroke="#605358" stroke-width="2"/>
+<path d="M147 125Q209 143 275 125L271 145Q210 165 152 145Z" fill="#831329"/>
+<ellipse cx="210" cy="143" rx="117" ry="16" fill="#0c0b0f" stroke="#615055" stroke-width="2"/>
+<path d="M103 141Q207 167 316 142" fill="none" stroke="#908086" stroke-width="2" opacity=".7"/>
+<path d="M165 54Q161 91 164 122" fill="none" stroke="#a59ca0" stroke-width="4" opacity=".2"/>
+</g>
+<!-- VHS tears across imagery -->
+<g opacity=".76">
+<rect x="776" y="145" width="410" height="3" fill="#140b0d"/><rect x="801" y="147" width="110" height="2" fill="#ef3043"/>
+<rect x="914" y="213" width="269" height="2" fill="#ece8e5" opacity=".46"/>
+<rect x="771" y="271" width="167" height="3" fill="#ca1933"/>
+<rect x="1020" y="272" width="160" height="2" fill="#1b0b0d"/>
+<rect x="866" y="336" width="240" height="2" fill="#9d1a2d"/>
+</g>
+<g font-family="'Courier New',monospace" font-size="11" fill="#b82b3e" opacity=".76">
+<text x="1090" y="53">5/9</text><text x="1090" y="70">fsociety</text><text x="1090" y="89">0x00</text>
+</g>
+<rect width="1200" height="385" fill="url(#lines)" pointer-events="none"/>
+</g>
+<rect x="1.5" y="1.5" width="1197" height="382" rx="9" fill="none" stroke="#69515a" stroke-width="2"/>
+<path d="M16 16H45M16 16V42M1184 343V369H1156" stroke="#df3449" stroke-width="3"/>
+</svg>
