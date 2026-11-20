@@ -11,7 +11,6 @@
 
 ### <sub>／</sub> ABOUT
 
-Desenvolvedor e entusiasta de **cibersegurança**, interessado em construir software confiável, compreender sistemas e explorar redes e segurança de aplicações.
 
 <sub>Português (nativo) · Inglês C2 — [EF SET 87/100](https://cert.efset.org/pt/drbfYm)</sub>
 
