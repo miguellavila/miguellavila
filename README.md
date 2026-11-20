@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/fsociety-minimal-banner.svg" width="100%" alt="Banner minimalista com a máscara fsociety enviada pelo usuário, hello, friend, cibersegurança, software e redes" />
-
 <br />
 
 **MIGUEL LOCATELLI ÁVILA**  
